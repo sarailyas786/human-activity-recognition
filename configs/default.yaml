@@ -1,0 +1,7 @@
+seed: 42
+window:
+  size: 128
+  overlap: 0.5
+model:
+  type: random_forest
+  n_estimators: 200

@@ -221,3 +221,15 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Project
+data/*
+!data/.gitkeep
+models/*.joblib
+.venv/
+
+# Project
+data/*
+!data/.gitkeep
+models/*.joblib
+.venv/
